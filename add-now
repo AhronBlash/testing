@@ -2,7 +2,9 @@
 "routes": [
   {
     "src": "/test",
-    "dest": "/tsting/index.html",
+    "dest": "/testing/index.html",
     "status": 200
   }
-]}
+]
+}
+

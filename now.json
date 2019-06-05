@@ -1,0 +1,9 @@
+{
+"routes": [
+  {
+    "src": "/test",
+    "dest": "/dist/index.html",
+    "status": 200
+  }
+]
+}
